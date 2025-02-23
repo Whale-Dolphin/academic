@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Cheng(程一帆)"
+  name             : "Yifan Cheng"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Huazhong University of Science an Technology"
   location         : "Wuhan Hubei, China"
