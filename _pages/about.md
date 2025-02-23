@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Undergraduate student at HUST, research intern at [**CMU wavlab**](https://www.wavlab.org/), member of [**Fish Audio**](https://fish.audio).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi, my name is Yifan Cheng(程一帆). I'm a third year undergraduate student at HUST. I have the privilege of being a research intern at [**CMU wavlab**](https://www.wavlab.org/) advised by Prof. [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) and Senior PhD [Jiatong Shi](http://shijt.site/). Also, I'm fortunate to be a member of Fish Audio team to develop the SOTA open-source TTS system [Fish-Speech](https://github.com/fishaudio/fish-speech). Prior to this, I worked at [Meituan](https://www.meituan.com) as a speech synthesis intern for 4 months.
+
+My research interests include controllable TTS system, voice agent and AI mates. Our project Fish-Speech has gained significant recognition in the open-source community. I'm currently seeking summer internship opportunities and welcome any contacts!
 
 
 # 🔥 News
