@@ -30,7 +30,7 @@ My research interests include controllable TTS system, voice agent and AI mates.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv`</div><img src='images/fish-arch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/fish-arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ Fish-Speech: Leveraging Large Language Models for Advanved Multilinguak Text-to-Speech Synthesis](https://arxiv.org/pdf/2411.01156)
