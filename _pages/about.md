@@ -17,44 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Undergraduate student at HUST, research intern at [**CMU wavlab**](https://www.wavlab.org/), member of [**Fish Audio**](https://fish.audio).
+Undergraduate student at HUST, research intern at [**CMU WAVLab**](https://www.wavlab.org/), member of [**Fish Audio**](https://fish.audio).
 
-Hi, my name is Yifan Cheng(程一帆). I'm a third year undergraduate student at HUST. I have the privilege of being a research intern at [**CMU wavlab**](https://www.wavlab.org/) advised by Prof. [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) and Senior PhD [Jiatong Shi](http://shijt.site/). Also, I'm fortunate to be a member of Fish Audio team to develop the SOTA open-source TTS system [Fish-Speech](https://github.com/fishaudio/fish-speech). Prior to this, I worked at [Meituan](https://www.meituan.com) as a speech synthesis intern for 4 months.
+Hi, my name is Yifan Cheng(程一帆). I'm a third year undergraduate student at HUST. I have the privilege of being a research intern at [**CMU WAVLab**](https://www.wavlab.org/) advised by Prof. [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) and Senior PhD [Jiatong Shi](http://shijt.site/). Also, I'm fortunate to be a member of Fish Audio team to develop the SOTA open-source TTS system [Fish-Speech](https://github.com/fishaudio/fish-speech). Prior to this, I worked at [Meituan](https://www.meituan.com) as a speech synthesis intern for 4 months.
 
 My research interests include controllable TTS system, voice agent and AI mates. Our project Fish-Speech has gained significant recognition in the open-source community. I'm currently seeking summer internship opportunities and welcome any contacts!
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 It's my great honor to join [WAVLab](https://www.wavlab.org/) as a research intern, advised by Prof. [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe).
+- *2024.12*: &nbsp;🎉🎉 Fish-Speech v1.5 is now available! Our open-source TTS system has garnered over 19k stars on GitHub, and rank No.2 on [TTS arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/fish-arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Fish-Speech](https://arxiv.org/pdf/2411.01156)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Shijia Liao, Yuxuan Wang, Tianyu Li, **Yifan Cheng**, Ruoyi Zhang, Rongzhi Zhou, Yijin Xing
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/fishaudio/fish-speech) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- SOTA open-source TTS system, use dual-AR and FF-GAN. Garnered over 19k stars on github.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - now*, Being a research intern at [**CMU WAVLab**](https://www.wavlab.org/), advised by Prof. Shinji Watanabe and Senior PhD Jiatong Shi.
+- *2022.09 - now*, Pursuing a Bachelor's degree in Software Engineering School(SSE) of Huazhong University of Science and Technology (HUST).
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2024.09*, [Meituan](https://www.meituan.com/), Beijing China.
