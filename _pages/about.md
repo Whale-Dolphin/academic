@@ -47,7 +47,7 @@ Shijia Liao, Yuxuan Wang, Tianyu Li, **Yifan Cheng**, Ruoyi Zhang, Rongzhi Zhou,
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - now*, Being a research intern at [**CMU WAVLab**](https://www.wavlab.org/), advised by Prof. Shinji Watanabe and Senior PhD Jiatong Shi.
+- *2024.12 - now*, Being a research intern at [**CMU WAVLab**](https://www.wavlab.org/), advised by Prof. Shinji Watanabe and Senior PhD Jiatong Shi.
 - *2022.09 - now*, Majoring in Software Engineering at Huazhong University of Science and Technology (HUST).
 
 <!-- # 💬 Invited Talks
