@@ -51,6 +51,8 @@ Shijia Liao, Yuxuan Wang, Tianyu Li, **Yifan Cheng**, Ruoyi Zhang, Rongzhi Zhou,
 
 [**Project**](https://github.com/fishaudio/fish-speech) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - SOTA open-source TTS system, use dual-AR and FF-GAN. Garnered over 21k stars on github.
+
+[**Website**](https://fish.audio/)
 </div>
 </div>
 
