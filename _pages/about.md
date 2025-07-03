@@ -33,14 +33,14 @@ My research interests include controllable TTS system, voice agent and AI mates.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS2025 UNDERREVIEW</div><img src='images/fish-arch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS2025 UNDERREVIEW</div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation](https://arxiv.org/abs/2505.24518)
 
 Jiatong Shi, **Yifan Cheng**, Bo-Hao Su, Hye-jin Shim, Jinchuan Tian, Samuele Cornell, Yiwen Zhao, Siddhant Arora, Shinji Watanabe
 
-<strong><span class='show_paper_citations' data='6DPnbBEAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Project**](https://github.com/ftshijt/espnet/tree/universa_plus)  <strong><span class='show_paper_citations' data='6DPnbBEAAAAJ:2osOgNQ5qMEC'></span></strong>
 
 </div>
 </div>
