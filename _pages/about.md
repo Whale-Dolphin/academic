@@ -33,7 +33,7 @@ My research interests include controllable TTS system, voice agent and AI mates.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS2025 UNDERREVIEW</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS2025 UNDERREVIEW</div><img src='images/arecho.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation](https://arxiv.org/abs/2505.24518)
