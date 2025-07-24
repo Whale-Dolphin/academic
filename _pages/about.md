@@ -84,4 +84,5 @@ Shijia Liao, Yuxuan Wang, Tianyu Li, **Yifan Cheng**, Ruoyi Zhang, Rongzhi Zhou,
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2027.07 - now*, [Hanabi AI(Fish Audio)](https://www.fish.audio), Remote.
 - *2024.05 - 2024.09*, [Meituan](https://www.meituan.com/), Beijing China.
