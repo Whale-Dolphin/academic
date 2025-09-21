@@ -27,7 +27,9 @@ My research interests include controllable TTS system, voice agent and AI mates.
 
 
 # 🔥 News
-- *2025.05: &nbsp;🎉🎉 OpenAudio-S1 is now open-sourced! It support emotion control and naturl language control! Beter performance model at [fish audio](https://fish.audio).
+- *2025.09*: &nbsp;🎉🎉 Our paper [**ARECHO**](https://arxiv.org/abs/2505.24518) is accepted by *NIPS2025* as spot light as second author!!! Really thankful to my advisor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) and his senior [Jiatong Shi](http://shijt.site/) and my co-authors for their guidence and support.
+- *2025.07*: &nbsp;🎉🎉 I officially join Hanabi AI (Fish Audio) as a speech AI engineer, I'm responsible for the Audio Understanding, Audio Qestion Answer and next generation dialogue model development.
+- *2025.05*: &nbsp;🎉🎉 OpenAudio-S1 is now open-sourced! It support emotion control and naturl language control! Beter performance model at [fish audio](https://fish.audio).
 - *2025.05*: &nbsp;🎉🎉 Our paper [**MIKU-PAL**](https://arxiv.org/abs/2505.15772) is accepted by *INTERSPEECH2025*!!!
 - *2024.12*: &nbsp;🎉🎉 It's my great honor to join [WAVLab](https://www.wavlab.org/) as a research intern, advised by Prof. [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe).
 - *2024.12*: &nbsp;🎉🎉 Fish-Speech v1.5 is now available! Our open-source TTS system has garnered over 19k stars on GitHub, and rank No.2 on [TTS arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena). 
